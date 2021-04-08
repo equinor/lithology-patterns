@@ -1,0 +1,41 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#65A740" />
+  <path d="M0 4H7V5H0V4Z" fill="black" />
+  <path d="M0 20H7V21H0V20Z" fill="black" />
+  <path d="M0 36H7V37H0V36Z" fill="black" />
+  <path d="M0 52H7V53H0V52Z" fill="black" />
+  <path d="M16 4H23V5H16V4Z" fill="black" />
+  <path d="M24 28H31V29H24V28Z" fill="black" />
+  <path d="M16 36H23V37H16V36Z" fill="black" />
+  <path d="M24 60H31V61H24V60Z" fill="black" />
+  <path d="M32 4H39V5H32V4Z" fill="black" />
+  <path d="M32 20H39V21H32V20Z" fill="black" />
+  <path d="M48 20H55V21H48V20Z" fill="black" />
+  <path d="M32 36H39V37H32V36Z" fill="black" />
+  <path d="M32 52H39V53H32V52Z" fill="black" />
+  <path d="M16 52H23V53H16V52Z" fill="black" />
+  <path d="M48 4H55V5H48V4Z" fill="black" />
+  <path d="M56 28H63V29H56V28Z" fill="black" />
+  <path d="M48 36H55V37H48V36Z" fill="black" />
+  <path d="M56 60H63V61H56V60Z" fill="black" />
+  <path d="M56 12H63V13H56V12Z" fill="black" />
+  <path d="M56 44H63V45H56V44Z" fill="black" />
+  <path d="M40 12H47V13H40V12Z" fill="black" />
+  <path d="M40 44H47V45H40V44Z" fill="black" />
+  <path d="M40 28H47V29H40V28Z" fill="black" />
+  <path d="M40 60H47V61H40V60Z" fill="black" />
+  <path d="M24 12H31V13H24V12Z" fill="black" />
+  <path d="M24 44H31V45H24V44Z" fill="black" />
+  <path d="M8 12H15V13H8V12Z" fill="black" />
+  <path d="M8 44H15V45H8V44Z" fill="black" />
+  <path d="M8 28H15V29H8V28Z" fill="black" />
+  <path d="M8 60H15V61H8V60Z" fill="black" />
+  <path
+    d="M21.792 21.5C21.4062 22.383 20.5252 23 19.5 23C18.1193 23 17 21.8807 17 20.5C17 19.1193 18.1193 18 19.5 18C20.5252 18 21.4062 18.617 21.792 19.5H20.6181C20.3434 19.1931 19.9443 19 19.5 19C18.6716 19 18 19.6716 18 20.5C18 21.3284 18.6716 22 19.5 22C19.9443 22 20.3434 21.8069 20.6181 21.5H21.792Z"
+    fill="black"
+  />
+  <path
+    d="M53.792 53.5C53.4062 54.383 52.5252 55 51.5 55C50.1193 55 49 53.8807 49 52.5C49 51.1193 50.1193 50 51.5 50C52.5252 50 53.4062 50.617 53.792 51.5H52.6181C52.3434 51.1931 51.9443 51 51.5 51C50.6716 51 50 51.6716 50 52.5C50 53.3284 50.6716 54 51.5 54C51.9443 54 52.3434 53.8069 52.6181 53.5H53.792Z"
+    fill="black"
+  />
+</svg>

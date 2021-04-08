@@ -1,0 +1,69 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#887000" />
+  <path d="M0 14H3V13H2V12H3V11H0V12H1V13H0V14Z" fill="black" />
+  <path d="M0 29V28H6V29H0Z" fill="black" />
+  <path d="M0 46H3V45H2V44H3V43H0V44H1V45H0V46Z" fill="black" />
+  <path d="M0 61V60H6V61H0Z" fill="black" />
+  <path d="M64 60V61H57V60H64Z" fill="black" />
+  <path d="M64 43H60V44H61V45H60V46H64V45H62V44H64V43Z" fill="black" />
+  <path d="M64 28V29H57V28H64Z" fill="black" />
+  <path d="M64 11H60V12H61V13H60V14H64V13H62V12H64V11Z" fill="black" />
+  <path d="M14 4H1V5H14V4Z" fill="black" />
+  <path d="M14 20H1V21H14V20Z" fill="black" />
+  <path d="M1 36H14V37H1V36Z" fill="black" />
+  <path d="M14 52H1V53H14V52Z" fill="black" />
+  <path d="M9 12H22V13H9V12Z" fill="black" />
+  <path d="M22 44H9V45H22V44Z" fill="black" />
+  <path d="M17 4H30V5H17V4Z" fill="black" />
+  <path d="M30 20H17V21H30V20Z" fill="black" />
+  <path d="M17 36H30V37H17V36Z" fill="black" />
+  <path d="M30 52H17V53H30V52Z" fill="black" />
+  <path d="M25 28H38V29H25V28Z" fill="black" />
+  <path d="M38 60H25V61H38V60Z" fill="black" />
+  <path d="M33 4H46V5H33V4Z" fill="black" />
+  <path d="M46 20H33V21H46V20Z" fill="black" />
+  <path d="M33 36H46V37H33V36Z" fill="black" />
+  <path d="M46 52H33V53H46V52Z" fill="black" />
+  <path d="M41 12H54V13H41V12Z" fill="black" />
+  <path d="M54 44H41V45H54V44Z" fill="black" />
+  <path d="M49 4H62V5H49V4Z" fill="black" />
+  <path d="M62 20H49V21H62V20Z" fill="black" />
+  <path d="M49 36H62V37H49V36Z" fill="black" />
+  <path d="M62 52H49V53H62V52Z" fill="black" />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M28 43H35V44H34V45H35V46H28V45H29V44H28V43ZM30 45H33V44H30V45Z"
+    fill="black"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M19 27H12V28H13V29H12V30H19V29H18V28H19V27ZM17 29H14V28H17V29Z"
+    fill="black"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M44 27H51V28H50V29H51V30H44V29H45V28H44V27ZM46 29H49V28H46V29Z"
+    fill="black"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M51 59H44V60H45V61H44V62H51V61H50V60H51V59ZM49 61H46V60H49V61Z"
+    fill="black"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M12 59H19V60H18V61H19V62H12V61H13V60H12V59ZM14 61H17V60H14V61Z"
+    fill="black"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M35 11H28V12H29V13H28V14H35V13H34V12H35V11ZM33 13H30V12H33V13Z"
+    fill="black"
+  />
+</svg>
