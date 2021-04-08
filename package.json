@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/equinor/lithology-patterns/issues"
   },
-  "homepage": "https://github.com/equinor/lithology-patterns#readme"
+  "homepage": "https://github.com/equinor/lithology-patterns#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
 }
