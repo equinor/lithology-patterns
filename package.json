@@ -4,6 +4,7 @@
   "description": "Collection of Lithology Patterns used with Equinor's applications",
   "main": "index.js",
   "scripts": {
+    "preinstall": "npx only-allow pnpm",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
