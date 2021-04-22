@@ -1,0 +1,26 @@
+{
+  "name": "lithology-patterns",
+  "version": "0.0.1",
+  "description": "Collection of Lithology Patterns used with Equinor's applications",
+  "main": "index.js",
+  "files": ["raw"],
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "format:patterns": "prettier --write raw/**/**.svg",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/equinor/lithology-patterns.git"
+  },
+  "keywords": ["equinor", "lithology", "svg", "pnpm"],
+  "author": "Equinor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/equinor/lithology-patterns/issues"
+  },
+  "homepage": "https://github.com/equinor/lithology-patterns#readme",
+  "devDependencies": {
+    "prettier": "^2.2.1"
+  }
+}

@@ -1,0 +1,111 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="64" height="64" fill="#887000" />
+  <g clip-path="url(#clip0)">
+    <rect x="1" y="4" width="13" height="1" fill="black" />
+    <rect x="1" y="20" width="13" height="1" fill="black" />
+    <rect x="1" y="36" width="13" height="1" fill="black" />
+    <rect x="1" y="52" width="13" height="1" fill="black" />
+    <rect x="9" y="28" width="13" height="1" fill="black" />
+    <rect x="9" y="60" width="13" height="1" fill="black" />
+    <rect x="17" y="4" width="13" height="1" fill="black" />
+    <rect x="17" y="36" width="13" height="1" fill="black" />
+    <rect x="25" y="12" width="13" height="1" fill="black" />
+    <rect x="25" y="44" width="13" height="1" fill="black" />
+    <rect x="33" y="4" width="13" height="1" fill="black" />
+    <rect x="33" y="20" width="13" height="1" fill="black" />
+    <rect x="33" y="36" width="13" height="1" fill="black" />
+    <rect x="33" y="52" width="13" height="1" fill="black" />
+    <rect x="17" y="52" width="13" height="1" fill="black" />
+    <rect x="49" y="20" width="13" height="1" fill="black" />
+    <rect x="41" y="28" width="13" height="1" fill="black" />
+    <rect x="41" y="60" width="13" height="1" fill="black" />
+    <rect x="49" y="4" width="13" height="1" fill="black" />
+    <rect x="49" y="36" width="13" height="1" fill="black" />
+    <rect x="57" y="12" width="13" height="1" fill="black" />
+    <rect x="57" y="44" width="13" height="1" fill="black" />
+    <rect x="-7" y="12" width="13" height="1" fill="black" />
+    <rect x="-7" y="44" width="13" height="1" fill="black" />
+  </g>
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M15 11H14V14H15V11ZM17 11H16V14H17V11Z"
+    fill="black"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M47 11H46V14H47V11ZM49 11H48V14H49V11Z"
+    fill="black"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M15 43H14V46H15V43ZM17 43H16V46H17V43Z"
+    fill="black"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M47 43H46V46H47V43ZM49 43H48V46H49V43Z"
+    fill="black"
+  />
+  <g clip-path="url(#clip1)">
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M28 59H35V60H34V61H35V62H28V61H29V60H28V59ZM30 61H33V60H30V61Z"
+      fill="black"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M60 59H67V60H66V61H67V62H60V61H61V60H60V59ZM62 61H65V60H62V61Z"
+      fill="black"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M-4 59H3V60H2V61H3V62H-4V61H-3V60H-4V59ZM-2 61H1V60H-2V61Z"
+      fill="black"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M28 27H35V28H34V29H35V30H28V29H29V28H28V27ZM30 29H33V28H30V29Z"
+      fill="black"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M60 27H67V28H66V29H67V30H60V29H61V28H60V27ZM62 29H65V28H62V29Z"
+      fill="black"
+    />
+    <path
+      fill-rule="evenodd"
+      clip-rule="evenodd"
+      d="M-4 27H3V28H2V29H3V30H-4V29H-3V28H-4V27ZM-2 29H1V28H-2V29Z"
+      fill="black"
+    />
+  </g>
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M21 23V18.5V18H22L23.5 20.5L25 18H26V18.5V23H25V20.1L23.5 22.5L22 20.1V23H21Z"
+    fill="black"
+  />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M53 55V50.5V50H54L55.5 52.5L57 50H58V50.5V55H57V52.1L55.5 54.5L54 52.1V55H53Z"
+    fill="black"
+  />
+  <defs>
+    <clipPath id="clip0">
+      <rect width="64" height="64" fill="white" />
+    </clipPath>
+    <clipPath id="clip1">
+      <rect width="64" height="64" fill="white" />
+    </clipPath>
+  </defs>
+</svg>
