@@ -87,3 +87,12 @@
 | Agrillaceous | ![Limestone Agrillaceous](./assets/svg/70026.svg) |
 | Dolomitic    | ![Limestone Dolomitic](./assets/svg/72000.svg)    |
 | Chalk        | ![Limestone Chalk](./assets/svg/78000.svg)        |
+
+## Marl
+
+| Name         | SVG Pattern                                  |
+| ------------ | -------------------------------------------- |
+| Marl         | ![Marl Main](./assets/svg/80000.svg)         |
+| Agrillaceous | ![Marl Agrillaceous](./assets/svg/80026.svg) |
+| Calcareous   | ![Marl Calcareous](./assets/svg/80100.svg)   |
+| Dolomitic    | ![Marl Dolomitic](./assets/svg/80200.svg)    |
