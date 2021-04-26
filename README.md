@@ -12,7 +12,7 @@ license](https://github.com/equinor/lithology-patterns/blob/main/LICENSE) follow
 
 ## Overview
 
-This repository hosts the lithology patterns inside the `raw/` folder.
+This repository hosts the lithology patterns inside the `assets/` folder.
 
 ### NPM
 
@@ -24,10 +24,14 @@ use the SVG's. The SVG's can simply be imported and it's up to the application
 to decide how to handle the SVG's.
 
 ```javascript
-import choosePatternName from 'lithology-patterns/raw/30000.svg
+import choosePatternName from 'lithology-patterns/assets/svg/30000.svg
 ```
 
 ## Patterns
 
-![Alt text](./raw/claystone/60000.svg)
-<img src="./raw/claystone/60000.svg">
+### Sandstone
+
+| Name       | SVG                                             |
+| ---------- | ----------------------------------------------- |
+| Sandstone  | ![Sandstone Main](./assets/svg/30000.svg)       |
+| Glauconite | ![Sandstone Glauconite](./assets/svg/30017.svg) |
