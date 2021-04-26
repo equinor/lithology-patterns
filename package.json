@@ -3,11 +3,11 @@
   "version": "0.0.1",
   "description": "Collection of Lithology Patterns used with Equinor's applications",
   "main": "index.js",
-  "files": [
-    "assets"
-  ],
+  "files": ["assets"],
   "scripts": {
+    "postinstall": "husky install",
     "preinstall": "npx only-allow pnpm",
+    "commit": "cz",
     "format:patterns": "prettier --write raw/**/**.svg",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,12 +15,7 @@
     "type": "git",
     "url": "git+https://github.com/equinor/lithology-patterns.git"
   },
-  "keywords": [
-    "equinor",
-    "lithology",
-    "svg",
-    "pnpm"
-  ],
+  "keywords": ["equinor", "lithology", "svg", "pnpm"],
   "author": "Equinor",
   "license": "MIT",
   "bugs": {
@@ -28,6 +23,20 @@
   },
   "homepage": "https://github.com/equinor/lithology-patterns#readme",
   "devDependencies": {
+    "@commitlint/cli": "^12.1.1",
+    "@commitlint/config-conventional": "^12.1.1",
+    "commitizen": "^4.2.3",
+    "cz-conventional-changelog": "^3.3.0",
+    "husky": "^6.0.0",
     "prettier": "^2.2.1"
+  },
+  "engines": {
+    "node": ">=14",
+    "pnpm": ">=5"
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
   }
 }
