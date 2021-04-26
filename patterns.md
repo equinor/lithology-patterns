@@ -38,3 +38,10 @@
 | Calcite Cement Mica | ![Siltstone Calcite Cement Mica](./assets/svg/40121.svg) |
 | Carbonaceous        | ![Siltstone Main](./assets/svg/40023.svg)                |
 | Tuff                | ![Siltstone Main](./assets/svg/40015.svg)                |
+
+## Mudstone
+
+| Name     | SVG Pattern                                  |
+| -------- | -------------------------------------------- |
+| Mudstone | ![Mudstone Main](./assets/svg/50000.svg)     |
+| Paleosol | ![Mudstone Paleosol](./assets/svg/50090.svg) |
