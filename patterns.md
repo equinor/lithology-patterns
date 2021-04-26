@@ -104,3 +104,19 @@
 | Gypsum    | ![Gypsum Main](./assets/svg/85000.svg)      |
 | Anhydrite | ![Gypsum Anhydrite](./assets/svg/86000.svg) |
 | Halite    | ![Gypsum Halite](./assets/svg/88000.svg)    |
+
+## Dolostone
+
+| Name      | SVG Pattern                               |
+| --------- | ----------------------------------------- |
+| Dolostone | ![Dolostone Main](./assets/svg/74000.svg) |
+
+## Conglomerate
+
+SVG pattern currently not available on Figma.
+
+| Name         | SVG Pattern                                          |
+| ------------ | ---------------------------------------------------- |
+| Conglomerate | ![Conglomerate Main](./assets/svg/10000.svg)         |
+| Sandy Matrix | ![Conglomerate Sandy Matrix](./assets/svg/11030.svg) |
+| Muddy Matrix | ![Conglomerate Main](./assets/svg/11026.svg)         |
