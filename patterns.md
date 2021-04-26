@@ -22,8 +22,8 @@
 | Silty                     | ![Sandstone Silty](./assets/svg/33000.svg)                     |
 | Silty Calcite Cement Mica | ![Sandstone Silty Calcite Cement Mica](./assets/svg/33121.svg) |
 | Silty Mica                | ![Sandstone Silty Mica](./assets/svg/33021.svg)                |
-| Sility Kaolinite          | ![Sandstone Silty Kaolinite](./assets/svg/33022.svg)           |
-| Sility Kaolinite Cement   | ![Sandstone Silty Kaolinite Cement](./assets/svg/33500.svg)    |
+| Silty Kaolinite           | ![Sandstone Silty Kaolinite](./assets/svg/33022.svg)           |
+| Silty Kaolinite Cement    | ![Sandstone Silty Kaolinite Cement](./assets/svg/33500.svg)    |
 | Carbonaceous              | ![Sandstone Carbonaceous](./assets/svg/30023.svg)              |
 
 ## Siltstone
@@ -54,7 +54,7 @@
 | Ooze Rich               | ![Claystone Ooze Rich](./assets/svg/60014.svg)               |
 | Glauconite              | ![Claystone Glauconite](./assets/svg/60017.svg)              |
 | Pyrite                  | ![Claystone Pyrite](./assets/svg/60019.svg)                  |
-| Origanic Rich           | ![Claystone Organic Rich](./assets/svg/60023.svg)            |
+| Organic Rich            | ![Claystone Organic Rich](./assets/svg/60023.svg)            |
 | Calcareous              | ![Claystone Calcareous](./assets/svg/60100.svg)              |
 | Dolomitic               | ![Claystone Dolomitic](./assets/svg/60200.svg)               |
 | Kaolinite               | ![Claystone Kaolinite](./assets/svg/60500.svg)               |
@@ -66,3 +66,15 @@
 | Smectite Cement Fissile | ![Claystone Smectite Cement Fissile](./assets/svg/60738.svg) |
 | Fissile                 | ![Claystone Fissile](./assets/svg/60038.svg)                 |
 | Tuff                    | ![Claystone Tuff](./assets/svg/60015.svg)                    |
+
+## Shale
+
+| Name                        | SVG Pattern                                                  |
+| --------------------------- | ------------------------------------------------------------ |
+| Shale                       | ![Shale Main](./assets/svg/65000.svg)                        |
+| Pyrite                      | ![Shale Pyrite](./assets/svg/65019.svg)                      |
+| Organic Rich                | ![Shale Organic Rich](./assets/svg/65023.svg)                |
+| Arenaceous                  | ![Shale Arenaceous](./assets/svg/65030.svg)                  |
+| Calcareous                  | ![Shale Calcareous](./assets/svg/65100.svg)                  |
+| Silty                       | ![Shale Silty](./assets/svg/66000.svg)                       |
+| Silty Calcite Cemented Mica | ![Shale Silty Calcite Cemented Mica](./assets/svg/65121.svg) |
