@@ -32,3 +32,4 @@ import choosePatternName from 'lithology-patterns/assets/svg/30000.svg
 - [sandstone](./patterns.md#sandstone)
 - [siltstone](./patterns.md#siltstone)
 - [mudstone](./patterns.md#mudstone)
+- [claystone](./patterns.md#claystone)

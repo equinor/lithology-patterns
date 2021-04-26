@@ -45,3 +45,24 @@
 | -------- | -------------------------------------------- |
 | Mudstone | ![Mudstone Main](./assets/svg/50000.svg)     |
 | Paleosol | ![Mudstone Paleosol](./assets/svg/50090.svg) |
+
+## Claystone
+
+| Name                    | SVG Pattern                                                  |
+| ----------------------- | ------------------------------------------------------------ |
+| Claystone               | ![Claystone Main](./assets/svg/60000.svg)                    |
+| Ooze Rich               | ![Claystone Ooze Rich](./assets/svg/60014.svg)               |
+| Glauconite              | ![Claystone Glauconite](./assets/svg/60017.svg)              |
+| Pyrite                  | ![Claystone Pyrite](./assets/svg/60019.svg)                  |
+| Origanic Rich           | ![Claystone Organic Rich](./assets/svg/60023.svg)            |
+| Calcareous              | ![Claystone Calcareous](./assets/svg/60100.svg)              |
+| Dolomitic               | ![Claystone Dolomitic](./assets/svg/60200.svg)               |
+| Kaolinite               | ![Claystone Kaolinite](./assets/svg/60500.svg)               |
+| Illite                  | ![Claystone Illite](./assets/svg/60600.svg)                  |
+| Smectite                | ![Claystone Smectite](./assets/svg/60700.svg)                |
+| Sandy                   | ![Claystone Sandy](./assets/svg/61000.svg)                   |
+| Silty                   | ![Claystone Silty](./assets/svg/62000.svg)                   |
+| Silty Tuff              | ![Claystone Illite](./assets/svg/62015.svg)                  |
+| Smectite Cement Fissile | ![Claystone Smectite Cement Fissile](./assets/svg/60738.svg) |
+| Fissile                 | ![Claystone Fissile](./assets/svg/60038.svg)                 |
+| Tuff                    | ![Claystone Tuff](./assets/svg/60015.svg)                    |
