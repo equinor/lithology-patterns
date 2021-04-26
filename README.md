@@ -1,2 +1,33 @@
-# lithology-patterns
-Collection of Lithology patterns 
+# Equinor Lithology Patterns
+
+The repository is responsible for bundling the SVG lithology patterns. The
+patterns themselves should be able to be used by any project. Initially only an
+npm module is published to be consumed by a variety of Javascript projects,
+however modules for other languages (such as NuGet) will also be placed inside
+this repo.
+
+The project is licensed under the [MIT
+license](https://github.com/equinor/lithology-patterns/blob/main/LICENSE) following
+[the open source strategy of Equinor](https://opensource.equinor.com).
+
+## Overview
+
+This repository hosts the lithology patterns inside the `raw/` folder.
+
+### NPM
+
+The `package.json` describes that these raw folders should be bundled within the
+NPM package whenever the bundle gets published.
+
+The library doesn't define how you need to bundle your application in order to
+use the SVG's. The SVG's can simply be imported and it's up to the application
+to decide how to handle the SVG's.
+
+```javascript
+import choosePatternName from 'lithology-patterns/raw/30000.svg
+```
+
+## Patterns
+
+![Alt text](./raw/claystone/60000.svg)
+<img src="./raw/claystone/60000.svg">
