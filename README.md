@@ -29,9 +29,4 @@ import choosePatternName from 'lithology-patterns/assets/svg/30000.svg
 
 ## Patterns
 
-### Sandstone
-
-| Name       | SVG                                             |
-| ---------- | ----------------------------------------------- |
-| Sandstone  | ![Sandstone Main](./assets/svg/30000.svg)       |
-| Glauconite | ![Sandstone Glauconite](./assets/svg/30017.svg) |
+- [sandstone](./patterns.md#sandstone)
