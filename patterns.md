@@ -78,3 +78,12 @@
 | Calcareous                  | ![Shale Calcareous](./assets/svg/65100.svg)                  |
 | Silty                       | ![Shale Silty](./assets/svg/66000.svg)                       |
 | Silty Calcite Cemented Mica | ![Shale Silty Calcite Cemented Mica](./assets/svg/65121.svg) |
+
+## Limestone
+
+| Name         | SVG Pattern                                       |
+| ------------ | ------------------------------------------------- |
+| Limestone    | ![Limestone Main](./assets/svg/70000.svg)         |
+| Agrillaceous | ![Limestone Agrillaceous](./assets/svg/70026.svg) |
+| Dolomitic    | ![Limestone Dolomitic](./assets/svg/72000.svg)    |
+| Chalk        | ![Limestone Chalk](./assets/svg/78000.svg)        |
