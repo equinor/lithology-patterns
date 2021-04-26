@@ -25,3 +25,16 @@
 | Sility Kaolinite          | ![Sandstone Silty Kaolinite](./assets/svg/33022.svg)           |
 | Sility Kaolinite Cement   | ![Sandstone Silty Kaolinite Cement](./assets/svg/33500.svg)    |
 | Carbonaceous              | ![Sandstone Carbonaceous](./assets/svg/30023.svg)              |
+
+## Siltstone
+
+| Name                | SVG Pattern                                              |
+| ------------------- | -------------------------------------------------------- |
+| Siltstone           | ![Siltstone Main](./assets/svg/40000.svg)                |
+| Glauconite          | ![Siltstone Glauconite](./assets/svg/40017.svg)          |
+| Pyrite              | ![Siltstone Pyrite](./assets/svg/40019.svg)              |
+| Calcite Cement      | ![Siltstone Calcite Cement](./assets/svg/40100.svg)      |
+| Sandy               | ![Siltstone Sandy](./assets/svg/41000.svg)               |
+| Calcite Cement Mica | ![Siltstone Calcite Cement Mica](./assets/svg/40121.svg) |
+| Carbonaceous        | ![Siltstone Main](./assets/svg/40023.svg)                |
+| Tuff                | ![Siltstone Main](./assets/svg/40015.svg)                |
