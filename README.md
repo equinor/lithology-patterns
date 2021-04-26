@@ -37,3 +37,5 @@ import choosePatternName from 'lithology-patterns/assets/svg/30000.svg
 - [limestone](./patterns.md#limestone)
 - [marl](./patterns.md#marl)
 - [gypsum](./patterns.md#gypsum)
+- [dolostone](./patterns.md#dolostone)
+- [conglomerate](./patterns.md#conglomerate)
