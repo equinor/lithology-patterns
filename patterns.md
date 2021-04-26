@@ -96,3 +96,11 @@
 | Agrillaceous | ![Marl Agrillaceous](./assets/svg/80026.svg) |
 | Calcareous   | ![Marl Calcareous](./assets/svg/80100.svg)   |
 | Dolomitic    | ![Marl Dolomitic](./assets/svg/80200.svg)    |
+
+## Gypsum
+
+| Name      | SVG Pattern                                 |
+| --------- | ------------------------------------------- |
+| Gypsum    | ![Gypsum Main](./assets/svg/85000.svg)      |
+| Anhydrite | ![Gypsum Anhydrite](./assets/svg/86000.svg) |
+| Halite    | ![Gypsum Halite](./assets/svg/88000.svg)    |
