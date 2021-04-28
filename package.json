@@ -7,8 +7,8 @@
     "assets"
   ],
   "scripts": {
-    "format:patterns": "prettier --write assets/**/**.svg",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "patterns:format": "prettier --write assets/**/**.svg",
+    "patterns:optimize": "svgo -f ./figma -o ./assets/svg"
   },
   "repository": {
     "type": "git",
@@ -26,6 +26,7 @@
   },
   "homepage": "https://github.com/equinor/lithology-patterns#readme",
   "devDependencies": {
-    "prettier": "^2.2.1"
+    "prettier": "^2.2.1",
+    "svgo": "^2.3.0"
   }
 }
