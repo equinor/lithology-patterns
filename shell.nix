@@ -23,7 +23,6 @@ with pkgs;
 mkShell {
   buildInputs = [
     nodejs-14_x
-    nodePackages.pnpm
   ];
   shellHook = ''
     export PATH="$PWD/node_modules/.bin/:$PATH"
