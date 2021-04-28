@@ -1,24 +1,18 @@
 {
   "name": "@equinor/lithology-patterns",
   "version": "0.0.1",
-  "description": "Collection of Lithology Patterns used with Equinor's applications",
+  "description": "Collection of Lithology Patterns",
   "main": "index.js",
-  "files": [
-    "assets"
-  ],
+  "files": ["assets"],
   "scripts": {
     "patterns:format": "prettier --write assets/**/**.svg",
     "patterns:optimize": "svgo -f ./figma -o ./assets/svg"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/equinor/lithology-patterns.git"
+    "url": "https://github.com/equinor/lithology-patterns.git"
   },
-  "keywords": [
-    "equinor",
-    "lithology",
-    "svg"
-  ],
+  "keywords": ["equinor", "lithology", "svg"],
   "author": "Equinor",
   "license": "MIT",
   "bugs": {
