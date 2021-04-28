@@ -1,1 +1,13 @@
-<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill="#B3D454" d="M0 0h64v64H0z"/><path fill-rule="evenodd" clip-rule="evenodd" d="M2 3H1v3h1V3zm2 0H3v3h1V3zM2 19H1v3h1v-3zm2 0H3v3h1v-3zM2 35H1v3h1v-3zm2 0H3v3h1v-3zM2 51H1v3h1v-3zm2 0H3v3h1v-3zm6-24H9v3h1v-3zm2 0h-1v3h1v-3zm-2 32H9v3h1v-3zm2 0h-1v3h1v-3zm6-56h-1v3h1V3zm2 0h-1v3h1V3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm6 8h-1v3h1v-3zm2 0h-1v3h1v-3zm30 0h-1v3h1v-3zm2 0h-1v3h1v-3zm-42 8h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm6-40h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 32h-1v3h1v-3zm2 0h-1v3h1v-3zm6-40h-1v3h1V3zm2 0h-1v3h1V3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm6-24h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 32h-1v3h1v-3zm2 0h-1v3h1v-3zm14 0h-1v3h1v-3zm2 0h-1v3h1v-3zm-34 0h-1v3h1v-3zm2 0h-1v3h1v-3zM50 3h-1v3h1V3zm2 0h-1v3h1V3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm6-40h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 32h-1v3h1v-3zm2 0h-1v3h1v-3z" fill="#000"/><path d="M7 12h1v1H7v-1zm6 0h1v1h-1v-1zm-2 0h-1v1h1v-1zm28 0h1v1h-1v-1zm6 0h1v1h-1v-1zm-2 0h-1v1h1v-1zM7 44h1v1H7v-1zm6 0h1v1h-1v-1zm-2 0h-1v1h1v-1zm28 0h1v1h-1v-1zm6 0h1v1h-1v-1zm-2 0h-1v1h1v-1z" fill="#000"/></svg>
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#B3D454" d="M0 0h64v64H0z" />
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M2 3H1v3h1V3zm2 0H3v3h1V3zM2 19H1v3h1v-3zm2 0H3v3h1v-3zM2 35H1v3h1v-3zm2 0H3v3h1v-3zM2 51H1v3h1v-3zm2 0H3v3h1v-3zm6-24H9v3h1v-3zm2 0h-1v3h1v-3zm-2 32H9v3h1v-3zm2 0h-1v3h1v-3zm6-56h-1v3h1V3zm2 0h-1v3h1V3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm6 8h-1v3h1v-3zm2 0h-1v3h1v-3zm30 0h-1v3h1v-3zm2 0h-1v3h1v-3zm-42 8h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm6-40h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 32h-1v3h1v-3zm2 0h-1v3h1v-3zm6-40h-1v3h1V3zm2 0h-1v3h1V3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm6-24h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 32h-1v3h1v-3zm2 0h-1v3h1v-3zm14 0h-1v3h1v-3zm2 0h-1v3h1v-3zm-34 0h-1v3h1v-3zm2 0h-1v3h1v-3zM50 3h-1v3h1V3zm2 0h-1v3h1V3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 16h-1v3h1v-3zm2 0h-1v3h1v-3zm6-40h-1v3h1v-3zm2 0h-1v3h1v-3zm-2 32h-1v3h1v-3zm2 0h-1v3h1v-3z"
+    fill="#000"
+  />
+  <path
+    d="M7 12h1v1H7v-1zm6 0h1v1h-1v-1zm-2 0h-1v1h1v-1zm28 0h1v1h-1v-1zm6 0h1v1h-1v-1zm-2 0h-1v1h1v-1zM7 44h1v1H7v-1zm6 0h1v1h-1v-1zm-2 0h-1v1h1v-1zm28 0h1v1h-1v-1zm6 0h1v1h-1v-1zm-2 0h-1v1h1v-1z"
+    fill="#000"
+  />
+</svg>

@@ -1,1 +1,29 @@
-<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill="#887000" d="M0 0h64v64H0z"/><g clip-path="url(#a)" fill="#000"><path d="M1 4h13v1H1zm0 16h13v1H1zm0 16h13v1H1zm0 16h13v1H1zm8-24h13v1H9zm0 32h13v1H9zm8-56h13v1H17zm0 32h13v1H17zm8-24h13v1H25zm0 32h13v1H25zm8-40h13v1H33zm0 16h13v1H33zm0 16h13v1H33zm0 16h13v1H33zm-16 0h13v1H17zm32-32h13v1H49zm-8 8h13v1H41zm0 32h13v1H41zm8-56h13v1H49zm0 32h13v1H49zm8-24h13v1H57zm0 32h13v1H57zM-7 12H6v1H-7zm0 32H6v1H-7z"/></g><path fill-rule="evenodd" clip-rule="evenodd" d="M15 11h-1v3h1v-3zm2 0h-1v3h1v-3zm30 0h-1v3h1v-3zm2 0h-1v3h1v-3zM15 43h-1v3h1v-3zm2 0h-1v3h1v-3zm30 0h-1v3h1v-3zm2 0h-1v3h1v-3z" fill="#000"/><g clip-path="url(#b)" fill-rule="evenodd" clip-rule="evenodd" fill="#000"><path d="M28 59h7v1h-1v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm30-2h7v1h-1v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm-66-2h7v1H2v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm30-34h7v1h-1v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm30-2h7v1h-1v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm-66-2h7v1H2v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1z"/></g><path fill-rule="evenodd" clip-rule="evenodd" d="M21 23v-5h1l1.5 2.5L25 18h1v5h-1v-2.9l-1.5 2.4-1.5-2.4V23h-1zm32 32v-5h1l1.5 2.5L57 50h1v5h-1v-2.9l-1.5 2.4-1.5-2.4V55h-1z" fill="#000"/><defs><clipPath id="a"><path fill="#fff" d="M0 0h64v64H0z"/></clipPath><clipPath id="b"><path fill="#fff" d="M0 0h64v64H0z"/></clipPath></defs></svg>
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path fill="#887000" d="M0 0h64v64H0z" />
+  <g clip-path="url(#a)" fill="#000">
+    <path
+      d="M1 4h13v1H1zm0 16h13v1H1zm0 16h13v1H1zm0 16h13v1H1zm8-24h13v1H9zm0 32h13v1H9zm8-56h13v1H17zm0 32h13v1H17zm8-24h13v1H25zm0 32h13v1H25zm8-40h13v1H33zm0 16h13v1H33zm0 16h13v1H33zm0 16h13v1H33zm-16 0h13v1H17zm32-32h13v1H49zm-8 8h13v1H41zm0 32h13v1H41zm8-56h13v1H49zm0 32h13v1H49zm8-24h13v1H57zm0 32h13v1H57zM-7 12H6v1H-7zm0 32H6v1H-7z"
+    />
+  </g>
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M15 11h-1v3h1v-3zm2 0h-1v3h1v-3zm30 0h-1v3h1v-3zm2 0h-1v3h1v-3zM15 43h-1v3h1v-3zm2 0h-1v3h1v-3zm30 0h-1v3h1v-3zm2 0h-1v3h1v-3z"
+    fill="#000"
+  />
+  <g clip-path="url(#b)" fill-rule="evenodd" clip-rule="evenodd" fill="#000">
+    <path
+      d="M28 59h7v1h-1v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm30-2h7v1h-1v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm-66-2h7v1H2v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm30-34h7v1h-1v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm30-2h7v1h-1v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1zm-66-2h7v1H2v1h1v1h-7v-1h1v-1h-1v-1zm2 2h3v-1h-3v1z"
+    />
+  </g>
+  <path
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+    d="M21 23v-5h1l1.5 2.5L25 18h1v5h-1v-2.9l-1.5 2.4-1.5-2.4V23h-1zm32 32v-5h1l1.5 2.5L57 50h1v5h-1v-2.9l-1.5 2.4-1.5-2.4V55h-1z"
+    fill="#000"
+  />
+  <defs>
+    <clipPath id="a"><path fill="#fff" d="M0 0h64v64H0z" /></clipPath>
+    <clipPath id="b"><path fill="#fff" d="M0 0h64v64H0z" /></clipPath>
+  </defs>
+</svg>
