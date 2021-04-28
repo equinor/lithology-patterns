@@ -1,0 +1,13 @@
+name: Checks
+on:
+  pull_request:
+    types: ["opened", "edited", "reopened", "synchronize"]
+jobs:
+  verify-pr:
+    name: Verify the PR standards
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jef/conventional-commits-pr-action@v1
+        with:
+          comment: true
+          token: ${{ secrets.GITHUB_TOKEN }}
