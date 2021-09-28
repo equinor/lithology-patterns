@@ -27,6 +27,12 @@ to decide how to handle the SVG's.
 import choosePatternName from 'lithology-patterns/assets/svg/30000.svg
 ```
 
+### NuGet
+TODO
+
+### Others
+TODO
+
 ## Patterns
 
 - [sandstone](./patterns.md#sandstone)
