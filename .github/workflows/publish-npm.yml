@@ -24,6 +24,8 @@ jobs:
 
       - name: Setting the Version based on the tag
         run: npm version ${{ github.event.release.tag_name }}
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
       - name: Publish to NPM Registry
         run: npm publish --access public
