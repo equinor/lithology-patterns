@@ -1,12 +1,13 @@
 {
   "name": "@equinor/lithology-patterns",
-  "version": "0.0.3",
+  "version": "0.0.0",
   "description": "Collection of Lithology Patterns",
   "main": "index.js",
   "files": [
     "assets"
   ],
   "scripts": {
+    "patterns:process": "npm run patterns:optimize && npm run patterns:format",
     "patterns:format": "prettier --write assets/**/**.svg",
     "patterns:optimize": "svgo -f ./figma -o ./assets/svg"
   },
