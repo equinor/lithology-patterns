@@ -7,12 +7,14 @@ however modules for other languages (such as NuGet) will also be placed inside
 this repo.
 
 The project is licensed under the [MIT
-license](https://github.com/equinor/lithology-patterns/blob/main/LICENSE) following
-[the open source strategy of Equinor](https://opensource.equinor.com).
+license](https://github.com/equinor/lithology-patterns/blob/main/LICENSE)
+following [the open source strategy of Equinor](https://opensource.equinor.com).
 
 ## Overview
 
-This repository hosts the lithology patterns inside the `assets/` folder.
+This repository hosts the lithology patterns inside the `assets/` folder. If
+more patterns need to be added, these should be placed inside the `figma/`
+folder and pre-process them by running `npm run patterns:process`.
 
 ### NPM
 
