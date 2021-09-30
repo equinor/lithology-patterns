@@ -13,15 +13,16 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Installing Dependencies
+      - name: Setting up Node Environment for NPM
         uses: actions/setup-node@v1
         with:
           node-version: "10.x"
           registry-url: "https://registry.npmjs.org"
+      
+      - name: Install Dependencies
         run: npm ci
 
       - name: Setting the Version based on the tag
-        uses: actions/setup-node@v1
         run: npm version ${{ github.event.release.tag_name }}
 
       - name: Publish to NPM Registry
@@ -29,12 +30,14 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: Publish to GitHub Registry
+      - name: Setting up Node Environment for NPM
         uses: actions/setup-node@v1
         with:
           node-version: "10.x"
           registry-url: "https://npm.pkg.github.com"
           scope: "@equinor"
+          
+      - name: Publish to GitHub Registry
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
