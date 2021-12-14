@@ -22,9 +22,6 @@ jobs:
       - name: Install Dependencies
         run: npm ci
 
-      - name: Setting the Version based on the tag
-        run: npm version ${{ github.event.release.tag_name }} --git-tag-version false
-
       - name: Publish to NPM Registry
         run: npm publish --access public
         env:
