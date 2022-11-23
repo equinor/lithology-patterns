@@ -1,8 +1,7 @@
 {
   "name": "@equinor/lithology-patterns",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Collection of Lithology Patterns",
-  "main": "index.js",
   "files": [
     "assets"
   ],

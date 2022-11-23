@@ -29,6 +29,11 @@ to decide how to handle the SVG's.
 import choosePatternName from 'lithology-patterns/assets/svg/30000.svg
 ```
 
+### Adding new pattern
+1. Place new pattern in `figma/`
+2. Run `npm patterns:process`
+3. Add new optimized pattern in `assets/`to git repository
+
 ### NuGet
 TODO
 

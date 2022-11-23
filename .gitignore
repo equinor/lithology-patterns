@@ -24,3 +24,6 @@ node_modules/
 # direnv
 .direnv/
 .envrc
+
+# Dont include raw unoptimized SVG
+figma
