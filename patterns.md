@@ -111,6 +111,13 @@
 | ----------------------------------------- | ----- | --------- |
 | ![Dolostone Main](./assets/svg/74000.svg) | 74000 | Dolostone |
 
+## Tuff
+
+| Pattern                                   | Code  | Name      |
+| ----------------------------------------- | ----- | --------- |
+| ![Tuff Main](./assets/svg/92000.svg)      | 92000 | Tuff      |
+| ![Tuff](./assets/svg/92015.svg)           | 92015 | Tuff      |
+
 ## Conglomerate
 
 The pattern for the conglomerate is currently not available on Figma in SVG format.
