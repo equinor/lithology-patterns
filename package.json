@@ -8,7 +8,7 @@
   "scripts": {
     "patterns:process": "npm run patterns:optimize && npm run patterns:format",
     "patterns:format": "prettier --write assets/**/**.svg",
-    "patterns:optimize": "svgo -f ./figma -o ./assets/svg"
+    "patterns:optimize": "svgo -f ./assets/svg -o ./assets/svg"
   },
   "repository": {
     "type": "git",

@@ -30,9 +30,9 @@ import choosePatternName from 'lithology-patterns/assets/svg/30000.svg
 ```
 
 ### Adding new pattern
-1. Place new pattern in `figma/`
+1. Place new pattern in `assets/svg`
 2. Run `npm patterns:process`
-3. Add new optimized pattern in `assets/`to git repository
+3. Commit
 
 ### NuGet
 TODO

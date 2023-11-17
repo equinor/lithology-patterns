@@ -23,7 +23,11 @@
     fill="#000"
   />
   <defs>
-    <clipPath id="a"><path fill="#fff" d="M0 0h64v64H0z" /></clipPath>
-    <clipPath id="b"><path fill="#fff" d="M0 0h64v64H0z" /></clipPath>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h64v64H0z" />
+    </clipPath>
+    <clipPath id="b">
+      <path fill="#fff" d="M0 0h64v64H0z" />
+    </clipPath>
   </defs>
 </svg>
