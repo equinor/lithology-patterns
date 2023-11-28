@@ -10,7 +10,7 @@ The project is licensed under the [MIT
 license](https://github.com/equinor/lithology-patterns/blob/main/LICENSE)
 following [the open source strategy of Equinor](https://opensource.equinor.com).
 
-## Overview
+## Contributing
 
 This repository hosts the lithology patterns inside the `assets/` folder. If
 more patterns need to be added, these should be placed inside the `figma/`
@@ -33,6 +33,7 @@ import choosePatternName from 'lithology-patterns/assets/svg/30000.svg
 1. Place new pattern in `assets/svg`
 2. Run `npm patterns:process`
 3. Commit
+4. Create PR or Push to Main
 
 ### NuGet
 TODO
