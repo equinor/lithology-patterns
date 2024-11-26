@@ -1,47 +1,18 @@
-<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <g clip-path="url(#clip0_19_49287)">
-        <rect width="64" height="64" fill="#FF3232"/>
-        <g clip-path="url(#clip1_19_49287)">
-            <path d="M57 57.5L59.5 61.5L62 57.5" stroke="black"/>
-            <path d="M57 41.5L59.5 45.5L62 41.5" stroke="black"/>
-            <path d="M57 25.5L59.5 29.5L62 25.5" stroke="black"/>
-            <path d="M57 9.50002L59.5 13.5L62 9.50002" stroke="black"/>
-            <path d="M49 49.5L51.5 53.5L54 49.5" stroke="black"/>
-            <path d="M49 33.5L51.5 37.5L54 33.5" stroke="black"/>
-            <path d="M49 17.5L51.5 21.5L54 17.5" stroke="black"/>
-            <path d="M49 1.50002L51.5 5.5L54 1.50002" stroke="black"/>
-            <path d="M25 57.5L27.5 61.5L30 57.5" stroke="black"/>
-            <path d="M25 41.5L27.5 45.5L30 41.5" stroke="black"/>
-            <path d="M25 25.5L27.5 29.5L30 25.5" stroke="black"/>
-            <path d="M25 9.50002L27.5 13.5L30 9.50002" stroke="black"/>
-            <path d="M17 49.5L19.5 53.5L22 49.5" stroke="black"/>
-            <path d="M17 33.5L19.5 37.5L22 33.5" stroke="black"/>
-            <path d="M17 17.5L19.5 21.5L22 17.5" stroke="black"/>
-            <path d="M17 1.50002L19.5 5.5L22 1.50002" stroke="black"/>
-            <path d="M41 57.5L43.5 61.5L46 57.5" stroke="black"/>
-            <path d="M41 41.5L43.5 45.5L46 41.5" stroke="black"/>
-            <path d="M41 25.5L43.5 29.5L46 25.5" stroke="black"/>
-            <path d="M41 9.50002L43.5 13.5L46 9.50002" stroke="black"/>
-            <path d="M33 49.5L35.5 53.5L38 49.5" stroke="black"/>
-            <path d="M33 33.5L35.5 37.5L38 33.5" stroke="black"/>
-            <path d="M33 17.5L35.5 21.5L38 17.5" stroke="black"/>
-            <path d="M33 1.50002L35.5 5.5L38 1.50002" stroke="black"/>
-            <path d="M9 57.5L11.5 61.5L14 57.5" stroke="black"/>
-            <path d="M9 41.5L11.5 45.5L14 41.5" stroke="black"/>
-            <path d="M9 25.5L11.5 29.5L14 25.5" stroke="black"/>
-            <path d="M9 9.50002L11.5 13.5L14 9.50002" stroke="black"/>
-            <path d="M1 49.5L3.5 53.5L5.99999 49.5" stroke="black"/>
-            <path d="M1 33.5L3.5 37.5L5.99999 33.5" stroke="black"/>
-            <path d="M1 17.5L3.5 21.5L5.99999 17.5" stroke="black"/>
-            <path d="M1 1.50002L3.5 5.5L5.99999 1.50002" stroke="black"/>
-        </g>
+<svg viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g clip-path="url(#a)">
+    <path fill="#FF3232" d="M0 0h64v64H0z" />
+    <g clip-path="url(#b)" stroke="#000">
+      <path
+        d="m57 57.5 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-13 40 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-29 56 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-13 40 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m19 56 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-13 40 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-29 56 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-13 40 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4m-5-16 2.5 4 2.5-4"
+      />
     </g>
-    <defs>
-        <clipPath id="clip0_19_49287">
-            <rect width="64" height="64" fill="white"/>
-        </clipPath>
-        <clipPath id="clip1_19_49287">
-            <rect width="64" height="64" fill="white" transform="translate(64 64) rotate(180)"/>
-        </clipPath>
-    </defs>
+  </g>
+  <defs>
+    <clipPath id="a">
+      <path fill="#fff" d="M0 0h64v64H0z" />
+    </clipPath>
+    <clipPath id="b">
+      <path fill="#fff" transform="rotate(180 32 32)" d="M0 0h64v64H0z" />
+    </clipPath>
+  </defs>
 </svg>
