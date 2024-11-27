@@ -1,6 +1,6 @@
 {
   "name": "@equinor/lithology-patterns",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Collection of Lithology Patterns",
   "files": [
     "assets"
