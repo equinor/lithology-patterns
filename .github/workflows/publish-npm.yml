@@ -13,12 +13,12 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - name: Setting up Node Environment for NPM
-        uses: actions/setup-node@v1
+      - name: Setup Node.js Environment
+        uses: actions/setup-node@v2
         with:
-          node-version: "10.x"
+          node-version: '16.x'
           registry-url: "https://registry.npmjs.org"
-      
+
       - name: Install Dependencies
         run: npm ci
 
@@ -27,14 +27,10 @@ jobs:
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
 
-      - name: Setting up Node Environment for GitHub Package Registry
-        uses: actions/setup-node@v1
-        with:
-          node-version: "10.x"
-          registry-url: "https://npm.pkg.github.com"
-          scope: "@equinor"
-          
-      - name: Publish to GitHub Registry
+      - name: Switch to GitHub Package Registry
+        run: npm config set registry "https://npm.pkg.github.com"
+
+      - name: Publish to GitHub Package Registry
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
